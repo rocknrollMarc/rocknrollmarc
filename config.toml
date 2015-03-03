@@ -1,0 +1,14 @@
+baseurl = "http://yourSiteHere/"
+languageCode = "en-us"
+title = "Rocknrollmarc"
+theme = "hugoscroll"
+
+[params]
+description = "ruby on rails full stack / Agile coach / Workflow optimizer / Go / NodeJS / full stack freelancer from Hamburg"
+github = "rocknrollmarc"
+bitbucket = "rocknrollmarc"
+twitter = "bluemner"
+email = "marc.bluemner@gmail.com"
+flickr = "marc.bluemner@gmail.com"
+
+
