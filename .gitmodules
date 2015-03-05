@@ -1,3 +1,6 @@
 [submodule "themes/hugoscroll"]
 	path = themes/hugoscroll
 	url = https://github.com/rocknrollmarc/hugoscroll.git
+[submodule "hugoscroll"]
+	path = hugoscroll
+	url = https://github.com/SenjinDarashiva/hugoscroll.git
