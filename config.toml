@@ -1,6 +1,6 @@
 baseurl = "http://rocknrollmarc.herokuapp.com/"
 languageCode = "en-us"
-title = "Rocknrollmarc"
+title = "Rock`n`Go"
 theme = "hugoscroll"
 
 [params]
